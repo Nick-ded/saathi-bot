@@ -1,0 +1,5 @@
+disnake
+google-generativeai
+requests
+Pillow
+python-dotenv
